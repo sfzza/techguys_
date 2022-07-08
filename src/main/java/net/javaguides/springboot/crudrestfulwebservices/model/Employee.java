@@ -1,3 +1,4 @@
+//Seoul
 package net.javaguides.springboot.crudrestfulwebservices.model;
 
 import javax.persistence.Column;
